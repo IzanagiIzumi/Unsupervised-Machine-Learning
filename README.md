@@ -21,4 +21,4 @@ The results were visualized using **PCA** (Principal Component Analysis) to redu
 1. Clone this repository.
 2. Install the required libraries:
    ```bash
-  
+   pip install -r requirements.txt
